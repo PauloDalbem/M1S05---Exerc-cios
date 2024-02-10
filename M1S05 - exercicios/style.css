@@ -1,0 +1,26 @@
+body{
+    background-color: black;
+}
+
+h1{
+    color: rgb(78, 122, 232);
+}
+p{
+    color: brown;
+}
+
+button{background-color: whitesmoke;
+    border-color: rgb(78, 122, 232)e;
+    color: black;
+    
+}
+button:hover {
+    transform: scale(1.1)
+}
+li{
+    color: brown;
+    list-style-type: none;
+}
+ul{
+    padding-left: 0%;
+}
